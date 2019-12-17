@@ -1,2 +1,3 @@
 # my-first-repo
-the name says it all
+
+The name says it all.
